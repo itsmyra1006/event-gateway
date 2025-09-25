@@ -3,9 +3,9 @@
 A full-stack web application designed to streamline event registration and attendance tracking. This project replaces manual sign-in sheets with a modern, digital system using unique QR codes that are emailed to participants, providing real-time data for event organizers.
 
 ### Deployment links:
-* **Registration page:** `https://event-gateway-app.onrender.com` 
-* **Scanner page:** `https://event-gateway-app.onrender.com/scanner.html` 
-* **Admin Dashboard:** `https://event-gateway-app.onrender.com/admin.html` 
+* **Registration page:** `hhttps://event-gateway-site.onrender.com` 
+* **Scanner page:** `https://event-gateway-site.onrender.com/scanner.html` 
+* **Admin Dashboard:** `https://event-gateway-site.onrender.com/admin.html` 
 
 ---
 
@@ -58,8 +58,8 @@ To run this project on your own machine for further development:
 
 1.  **Clone the repository** and navigate to the project folder.
     ```bash
-    git clone [https://github.com/itsmyra1006/NSCC_Submission.git](https://github.com/itsmyra1006/NSCC_Submission.git)
-    cd NSCC-Submission/Event-Gateway
+    git clone [https://github.com/itsmyra1006/event-gateway](https://github.com/itsmyra1006/event-gateway)
+    cd event-gateway
     ```
 
 2.  **Install dependencies:**
