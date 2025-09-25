@@ -3,14 +3,15 @@
 A full-stack web application designed to streamline event registration and attendance tracking. This project replaces manual sign-in sheets with a modern, digital system using unique QR codes that are emailed to participants, providing real-time data for event organizers.
 
 ### Deployment links:
-* **Registration page:** `hhttps://event-gateway-site.onrender.com` 
+* **Registration page:** `https://event-gateway-site.onrender.com` 
 * **Scanner page:** `https://event-gateway-site.onrender.com/scanner.html` 
 * **Admin Dashboard:** `https://event-gateway-site.onrender.com/admin.html` 
 
 ---
 
-### Demo Screenshot
+### Demo Screenshot 
 
+![event-gateway-app-demo - Made with Clipchamp (1)](https://github.com/user-attachments/assets/2c7351a2-9556-4c84-b2e8-b3435f43ab8e) 
 <img width="1919" height="962" alt="Screenshot 2025-09-14 193908" src="https://github.com/user-attachments/assets/ade22e77-8ab8-4994-bc7d-940c8ed6fcd6" />
 <img width="1918" height="955" alt="Screenshot 2025-09-14 193849" src="https://github.com/user-attachments/assets/c02cc45a-1ce2-419e-8d0b-120503d0b4f7" />
 
