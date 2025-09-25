@@ -12,6 +12,7 @@ A full-stack web application designed to streamline event registration and atten
 ### Demo Screenshot 
 
 ![event-gateway-app-demo - Made with Clipchamp (1)](https://github.com/user-attachments/assets/6abfdbcb-fe3e-4e07-a124-fba24bdf74a7)
+
 <img width="1919" height="962" alt="Screenshot 2025-09-14 193908" src="https://github.com/user-attachments/assets/ade22e77-8ab8-4994-bc7d-940c8ed6fcd6" />
 <img width="1918" height="955" alt="Screenshot 2025-09-14 193849" src="https://github.com/user-attachments/assets/c02cc45a-1ce2-419e-8d0b-120503d0b4f7" />
 
